@@ -4,38 +4,38 @@
 
 **DOMAIN** : DATA ANALYTICS
 
-**Key Business Metrics : **
+**Key Business Metrics :**
 
-**The dashboard highlights critical KPIs at a glance : **
+**The dashboard highlights critical KPIs at a glance :**
 -Total Sales: 12.64M
 -Total Profit: 1.47M
 -Total Quantity Sold: 178K units
 -Total Shipping Cost: 1.35M
 These metrics provide a high-level snapshot of overall business health.
 
-**🌍 Geographic & Market Insights : **
+**🌍 Geographic & Market Insights :**
 -Top 5 Sales by Country: Visualized using a world map to identify high-revenue regions.
 -Market Segmentation: Filters for APAC, EU, US, LATAM, EMEA, Africa, and Canada.
 -Top 5 States by Sales: Treemap showcasing leading states such as England, California, and New York.
 -Top Markets by Profit Contribution: Pie chart illustrating profit share across global markets.
 
-**🛍 Category & Customer Segment Analysis : **
+**🛍 Category & Customer Segment Analysis :**
 -Profitability is analyzed across Furniture, Office Supplies, and Technology.
 -Customer segments include Consumer, Corporate, and Home Office.
 -A clustered bar chart helps compare how each category performs within different segments.
 
-**🚚 Shipping & Logistics Performance : **
+**🚚 Shipping & Logistics Performance :**
 -Sales by Ship Mode analysis highlights the dominance of Standard Class shipping.
 -Provides insight into customer shipping preferences and cost optimization opportunities.
 
-**🧠 Tools & Skills Demonstrated : **
+**🧠 Tools & Skills Demonstrated :**
 -Data modeling and aggregation
 -Business KPI analysis
 -Interactive dashboard design
 -Visual storytelling for decision-making
 -Market, segment, and category performance evaluation
 
-**🎯 Use Cases : **
+**🎯 Use Cases :**
 -Sales performance tracking
 -Market expansion analysis
 -Profitability optimization
